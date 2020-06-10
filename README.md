@@ -16,4 +16,8 @@
 
 - Now we need to install Python and a few packages with it, to do this, run `sudo apt install python3.8 python3.8-venv python3-pip` and press `y` to continue and add it.
 
-- Now we need to install git so we can clone our bot from GitHub
+- Now we need to install git so we can clone our bot from GitHub, you can do this by running the command `sudo apt-get install git` and press `y` to continue and install it.
+
+- Then we want to clone our bot from GitHub, we can do this by running `git clone <repo link>` and it will create a folder with your repository name and put all of your content inside of it. 
+
+- Now we want to make sure our bot runs, we can do this by doing ...
