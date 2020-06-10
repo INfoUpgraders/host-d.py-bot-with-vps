@@ -19,5 +19,6 @@
 - Now we need to install git so we can clone our bot from GitHub, you can do this by running the command `sudo apt-get install git` and press `y` to continue and install it.
 
 - Then we want to clone our bot from GitHub, we can do this by running `git clone <repo link>` and it will create a folder with your repository name and put all of your content inside of it. 
+  - A **very** important step is to do `cd <repo name>` into your bot directory, if you don't know what it is called, run the command `ls` and look for your bot folder, then you can `cd` into it.
 
-- Now we want to make sure our bot runs, we can do this by doing ...
+- Then you want 
