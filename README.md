@@ -1,8 +1,8 @@
 # How to Host your Discord Python Bot using a Virtual Private Server
-## I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7
+**I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7**
 ![thumbnail](https://i.ibb.co/qjT4P1F/how-to-host-python-vps.png)
 
-## **I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7**
+**I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7**
 
 
 ## Getting Started
