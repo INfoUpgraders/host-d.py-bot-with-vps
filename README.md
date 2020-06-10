@@ -21,4 +21,4 @@
 - Then we want to clone our bot from GitHub, we can do this by running `git clone <repo link>` and it will create a folder with your repository name and put all of your content inside of it. 
   - A **very** important step is to do `cd <repo name>` into your bot directory, if you don't know what it is called, run the command `ls` and look for your bot folder, then you can `cd` into it.
 
-- Then you want 
+- Then you want make sure your bot runs before we make it run in the background, to do this, you need to run `python3.8 -m venv venv` and then do `source venv/bin/activate` to activate it, once activated, run the command `pip install -U discord.py` to install the discord module (add the voice option to it if needed) then run `python3.8 <botfile>.py` (`python3.8 bot.py` in most instances) to start the bot. You will most likely get an error along the lines of `module not found` 
