@@ -29,4 +29,22 @@
 - Your bot should now be started but now you notice you cant exit and do other things without having to stop it.
 
 ### Keeping it on with systemd
-- hi
+- Some featues of systemd are that the service will automaticalled start after the machine has been rebooted or anything, there is a much easier option called screen, but systemd offers more benefites.
+
+**To get started with systemd** you need to first run the command `nano /etc/systemd/system/<filename>.service` so we can edit the file. Paste below and fill in the `<>` with what you want.
+
+```
+[Unit]
+Description=<whatever you want here>
+After=multi-user.target
+
+[Service]
+WorkingDirectory=/root/Bots/<BOT DIRECTORY FOLDER>
+User=root
+ExecStart=/bin/bash -c "source venv/bin/activate && python3.8 bot.py"
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
+press `ctrl+x`, `y`, then `enter` to save the file.
