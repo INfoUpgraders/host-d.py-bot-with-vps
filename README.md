@@ -3,7 +3,7 @@
 
 
 ## Getting Started
-- You first need an SSH such as [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or [Termius](https://termius.com/)
+- You first need an SSH client such as [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or [Termius](https://termius.com/) you can buy an amazing VPS (Virtual Private Server) from [webhost.sh](https://webhost.sh/vps) which is what I recommend.
 
 - Next your need to login to it by doing `ssh user@ip_address` and click yes to verify your fingerprint.
 
@@ -15,3 +15,5 @@
   - Make sure you update everything by doing `sudo apt update`
 
 - Now we need to install Python and a few packages with it, to do this, run `sudo apt install python3.8 python3.8-venv python3-pip` and press `y` to continue and add it.
+
+- Now we need to install git so we can clone our bot from GitHub
