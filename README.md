@@ -6,7 +6,9 @@
 **I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7 with these steps!**
 
 
-## Getting Started  **I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7 with these steps!**
+## Getting Started  
+**I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7 with these steps!**
+
 - You first need an SSH client such as [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or [Termius](https://termius.com/) you can buy an amazing VPS (Virtual Private Server) from [webhost.sh](https://webhost.sh/vps) which is what I recommend.
 
 - Next your need to login to it by doing `ssh user@ip_address` and click yes to verify your fingerprint.
