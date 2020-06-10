@@ -27,3 +27,6 @@
   - If you get an error along the lines of `x86-64-linux-gnu-cc failed with exit status 1` your need to add a package, you do this by running `sudo apt-get install python3.8-dev` and then reinstall the package.
   
 - Your bot should now be started but now you notice you cant exit and do other things without having to stop it.
+
+### Keeping it on with systemd
+- hi
