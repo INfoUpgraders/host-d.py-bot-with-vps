@@ -47,4 +47,6 @@ Restart=always
 [Install]
 WantedBy=multi-user.target
 ```
-press `ctrl+x`, `y`, then `enter` to save the file.
+Press `ctrl+x`, `y`, then `enter` to save the file.
+
+- Once you saved the file, start it by running `systemctl enable <filename>.service` then `systemctl start <filename>.service` then your bot should be started!
