@@ -1,7 +1,9 @@
 # How to Host your Discord Python Bot using a Virtual Private Server
+## I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7
 ![thumbnail](https://i.ibb.co/qjT4P1F/how-to-host-python-vps.png)
 
 ### I made a video [here](https://www.youtube.com/watch?v=t__APf2IOcI) on how to host it 24/7
+
 
 ## Getting Started
 - You first need an SSH client such as [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) or [Termius](https://termius.com/) you can buy an amazing VPS (Virtual Private Server) from [webhost.sh](https://webhost.sh/vps) which is what I recommend.
