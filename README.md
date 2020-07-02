@@ -15,7 +15,7 @@
 
 - Create a directory by doing `mkdir` and you can name it bots, so `mkdir Bots` then change into it by doing `cd Bots`
 
-- After that, run the command `sudo add-get install software-properties-common` press `y` to continue and install.
+- After that, run the command `sudo apt-get install software-properties-common` press `y` to continue and install.
 
 - Next, you need to `sudo add-apt-repository ppa:deadsnakes/ppa` press `enter` to continue and install it.
   - Make sure you update everything by doing `sudo apt update`
